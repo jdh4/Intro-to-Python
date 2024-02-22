@@ -5,3 +5,5 @@
 3. Run the notebook as usual by clicking on the "play" arrow and so on.
 
 The preferred web browsers are Firefox 90+ and Chromium 89+.
+
+The original repository by Matthew Cahn is [available on GitHub](https://github.com/mcahn/Intro-to-Python).
